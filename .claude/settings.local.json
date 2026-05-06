@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/D�vid/OneDrive/DevCorner/foxy/src/**)",
+      "PowerShell(ls -r \"C:\\\\Users\\\\D�vid\\\\OneDrive\\\\DevCorner\\\\foxy\\\\src\\\\views\")",
+      "Read(//c/Users/D�vid/OneDrive/DevCorner/foxy/**)",
+      "Bash(npm install *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\DVID~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-D-vid-OneDrive-DevCorner-foxy\\\\7fd6a905-84f6-486b-8e2b-f61dcdf3691b\\\\tasks\\\\bsykkxw3e.output\")"
+    ]
+  }
+}
